@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://pbs.twimg.com/profile_images/948851206109134849/Ibj6QuQJ.jpg" alt="Logo" width="120" height="120">
+    <img src="https://www.promeo-formation.fr/themes/custom/promeo/img/logos/logo_uimm.svg" alt="Logo" width="120" height="120">
   
   <h3 align="center">Projet Java - miniRPG </h3>
 
