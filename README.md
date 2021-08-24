@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/3ft7tsZ.png" alt="Logo" width="120" height="120">
+    <img src="https://pbs.twimg.com/profile_images/948851206109134849/Ibj6QuQJ.jpg" alt="Logo" width="120" height="120">
   
-  <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
+  <h3 align="center">Projet Java - miniRPG </h3>
 
 # Technologies
 
