@@ -5,7 +5,7 @@
   
   <h3 align="center">Projet TPE - Gestion d'hôtel L.T.P.J</h3>
 
-## Technologies
+# Technologies
 
 ***Le projet a été créé en utilisant :***
 
